@@ -10,7 +10,7 @@ img {
 </head>
 <body>
 
-<a href="https://iiitr.ac.in/" target="_parent">Visit W3Schools!</a>
+<a href="https://iiitr.ac.in/" target="_parent">parent</a>
 
 
 </body>
